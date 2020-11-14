@@ -9,5 +9,5 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 ```
 
 ## What am i working on ?
-Aside from school projects, I'm currenlty working on an Rust version of [***Croc***](https://github.com/schollz/croc), a peer-to-peer file-transfer tool, for educational purpose.
+Aside from school projects, I'm currently working on an Rust version of [***Croc***](https://github.com/schollz/croc), a peer-to-peer file-transfer tool, for educational purpose.
 (Soon on GitHub)
