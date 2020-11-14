@@ -1,7 +1,7 @@
 ![Banner](https://github.com/sven-eliasen/sven-eliasen/blob/main/personal-banner3.png)
 # Oh hi there ! 👋
 ## Let me introduce my self :
-```text
+```
 I'm a young IT enthusiast from France studying for a Bachelor 
 degree in network and software engineering.
 ```
