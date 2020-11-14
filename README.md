@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](https://github.com/sven-eliasen/sven-eliasen/blob/main/personal-banner4.png)
+![Banner](https://github.com/sven-eliasen/sven-eliasen/blob/main/personal-banner3.png)
 
 
 Here are some ideas to get you started:
