@@ -11,4 +11,4 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What am i working on right now ?
-My annual school project: Study of the APT group "Sandworm Team", including a reproduction the NotPetya attack.
+My annual school project: Study of the APT group "Sandworm Team", including a reproduction of the NotPetya attack.
