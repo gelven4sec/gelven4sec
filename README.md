@@ -10,5 +10,12 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen)](https://github.com/anuraghazra/github-readme-stats)
 
-## What am i working on right now ?
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=rust,py,c,php,html,css,js,git,mysql,docker)](https://skillicons.dev)
+
+## What am I working on right now ?
+
 My annual school project: Study of the APT group "Sandworm Team", including a reproduction of the NotPetya attack.
+
+The module I'm working on consist of a UEFI application that replicate the malware partition structure destruction
+by encrypting the MFT zone of an NTFS.
