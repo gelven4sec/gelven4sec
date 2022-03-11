@@ -17,5 +17,5 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 
 My annual school project: Study of the APT group "Sandworm Team", including a reproduction of the NotPetya attack.
 
-The module I'm working on consist of a UEFI application that replicate the malware partition structure destruction
+The module I'm working on consist of a UEFI application that replicate the malware's partition structure destruction
 by encrypting the MFT zone of an NTFS.
