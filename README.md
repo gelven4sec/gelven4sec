@@ -11,7 +11,7 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,py,c,php,html,css,js,git,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,rust,py,bash,c,php,html,css,js,git,mysql,docker,gtk)](https://skillicons.dev)
 
 ## What am I working on right now ?
 
