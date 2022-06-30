@@ -7,7 +7,7 @@ Looking to work in the world of cyber security and keeping as a hobby low-level 
 
 Also have great interest in many field, mainly in blockchain technology, distributed storage with IPFS and home automation.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen&layout=compact)](https://github.com/sven-eliasen)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,rust,py,bash,powershell,c,php,html,css,js,git,mysql,docker,gtk,qt)](https://skillicons.dev)
