@@ -14,7 +14,4 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 
 ## What am I working on right now ?
 
-My annual school project: Study of the APT group "Sandworm Team", including a reproduction of the NotPetya attack.
-
-The module I'm working on consist of a UEFI application that replicate the malware's partition structure destruction
-by encrypting the MFT zone on NTFS.
+Being free from school until end of september, I'm currently learning about UEFI and how linux distros deals with Secure Boot. 
