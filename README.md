@@ -10,6 +10,11 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-eliasen&layout=compact)](https://github.com/sven-eliasen)
 
 ## Skills
+
+### Web
+[![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)](https://skillicons.dev)
+
+### Dev
 [![My Skills](https://skillicons.dev/icons?i=linux,rust,py,bash,powershell,c,php,html,css,js,git,mysql,docker,gtk,qt)](https://skillicons.dev)
 
 ## What am I working on right now ?
