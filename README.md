@@ -18,7 +18,7 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 [![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)](https://skillicons.dev)
 
 ### Sys
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,postgres)](https://skillicons.dev)
 
 ## What am I working on right now ?
 
