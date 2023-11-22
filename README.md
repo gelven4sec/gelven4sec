@@ -11,7 +11,7 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 
 ## Skills
 
-![THM]([https://github.com/sven-eliasen/sven-eliasen/blob/main/personal-banner3.png)
+![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)
 
 ### Web
 [![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)](https://skillicons.dev)
