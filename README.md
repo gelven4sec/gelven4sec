@@ -11,16 +11,17 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 
 ## Skills
 
-![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)
+### TryHackMe
+[![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)](https://tryhackme.com/p/Gelven)
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)]
 
 ### Dev
-[![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)]
 
 ### Sys
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,postgres)]
 
 ## What am I working on right now ?
 
