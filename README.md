@@ -7,7 +7,8 @@ Looking to work in the world of cyber security and keeping as a hobby low-level 
 
 Also have great interest in many field, mainly in blockchain technology, distributed storage with IPFS and home automation.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelven4sec&layout=compact)](https://github.com/gelven4sec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelven4sec&layout=compact)](https://github.com/gelven4sec)  
+![Gelven's Stats](https://github-readme-stats.vercel.app/api?username=gelven4sec&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Skills
 
@@ -15,14 +16,14 @@ Also have great interest in many field, mainly in blockchain technology, distrib
 [![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)](https://tryhackme.com/p/Gelven)
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)]
+![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)
 
 ### Dev
-[![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)]
+![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)
 
 ### Sys
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,postgres)]
+![My Skills](https://skillicons.dev/icons?i=linux,arch,mysql,docker,nginx,postgres)
 
 ## What am I working on right now ?
 
-Being free from school until end of september, I'm currently learning about UEFI and how linux distros deals with Secure Boot. 
+Preparing for the OSCP certification exam and building my blog about malware developpement.
