@@ -1,4 +1,3 @@
-![Banner](https://github.com/sven-eliasen/sven-eliasen/blob/main/personal-banner3.png)
 # Oh hi there ! 👋
 
 I'm a young IT enthusiast from France studying for a Bachelor Degree in network and software engineering, in apprenticeship.
