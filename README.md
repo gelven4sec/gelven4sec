@@ -1,28 +1,27 @@
 # Oh hi there ! 👋
 
-I'm a young IT enthusiast from France studying for a Bachelor Degree in network and software engineering, in apprenticeship.
+My name is Joakim Pettersen, aka "Gelven", and I'm a Security professional.
 
-Looking to work in the world of cyber security and keeping as a hobby low-level programming in Rust. 
+I write about stuff that I like, which could be :
+- Malware development technique
+- Cybersecurity software development 
+- Reverse engineering
+- CTF writeups
+- Actually anything that comes to my mind
 
-Also have great interest in many field, mainly in blockchain technology, distributed storage with IPFS and home automation.
+### Projects
+
+- [NotPetyaAgain](https://github.com/gelven4sec/NotPetyaAgain): PoC of a UEFI Petya ransomware
+- [Rust MalDev course](https://nu11busters.github.io/rust-maldev-course/home/): Course about malware development in Rust
+- [LNKat](https://github.com/hacklab-esgi/LNKat): Windows Shortcut parser and generator (WIP) 
+
+### Certifications
+
+- OSCP by Offsec
+- OSWP by Offsec
+
+## Some widgets
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelven4sec&layout=compact)](https://github.com/gelven4sec)  
-![Gelven's Stats](https://github-readme-stats.vercel.app/api?username=gelven4sec&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-## Skills
-
-### TryHackMe
-[![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)](https://tryhackme.com/p/Gelven)
-
-### Web
-![My Skills](https://skillicons.dev/icons?i=fastapi,php,html,css,js)
-
-### Dev
-![My Skills](https://skillicons.dev/icons?i=rust,py,bash,powershell,c,git,gtk,qt)
-
-### Sys
-![My Skills](https://skillicons.dev/icons?i=linux,arch,mysql,docker,nginx,postgres)
-
-## What am I working on right now ?
-
-Preparing for the OSCP certification exam and building my blog about malware developpement.
+![Gelven's Stats](https://github-readme-stats.vercel.app/api?username=gelven4sec&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+[![THM](https://tryhackme-badges.s3.amazonaws.com/Gelven.png)](https://tryhackme.com/p/Gelven)  
