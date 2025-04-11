@@ -15,11 +15,6 @@ I write about stuff that I like, which could be :
 - [Rust MalDev course](https://nu11busters.github.io/rust-maldev-course/home/): Course about malware development in Rust
 - [LNKat](https://github.com/hacklab-esgi/LNKat): Windows Shortcut parser and generator (WIP) 
 
-### Certifications
-
-- OSCP by Offsec
-- OSWP by Offsec
-
 ## Some widgets
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelven4sec&layout=compact)](https://github.com/gelven4sec)  
